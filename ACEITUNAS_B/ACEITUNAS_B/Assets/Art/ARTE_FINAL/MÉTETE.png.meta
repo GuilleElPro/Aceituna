@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 10b83d57673f9854caac79ad9e3e873c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3846262440916111824
+    second: "ME\u0301TETE_0"
+  - first:
+      213: 555345780579527007
+    second: "ME\u0301TETE_1"
+  - first:
+      213: 9061974001616504656
+    second: "ME\u0301TETE_2"
+  - first:
+      213: -4620044833159114138
+    second: "ME\u0301TETE_3"
+  - first:
+      213: -4554841761186654106
+    second: "ME\u0301TETE_4"
+  - first:
+      213: 1848692351797843112
+    second: "ME\u0301TETE_5"
+  - first:
+      213: -2953734055447929081
+    second: "ME\u0301TETE_6"
+  - first:
+      213: -1947836074956965369
+    second: "ME\u0301TETE_7"
+  - first:
+      213: -8247803795742949309
+    second: "ME\u0301TETE_8"
+  - first:
+      213: -3393024784504563420
+    second: "ME\u0301TETE_9"
+  - first:
+      213: -4099282837210559912
+    second: "ME\u0301TETE_10"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 250
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "ME\u0301TETE_0"
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1510
+        width: 115
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d15bb7cf4ba06530800000000000000
+      internalID: 3846262440916111824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ME\u0301TETE_1"
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1603
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5964fa8b0cf4b700800000000000000
+      internalID: 555345780579527007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ME\u0301TETE_2"
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1505
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0574d22975992cd70800000000000000
+      internalID: 9061974001616504656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ME\u0301TETE_3"
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1505
+        width: 64
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6621c29c3bd42efb0800000000000000
+      internalID: -4620044833159114138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ME\u0301TETE_4"
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1541
+        width: 30
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668da500d83f9c0c0800000000000000
+      internalID: -4554841761186654106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ME\u0301TETE_5"
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1578
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a454ef26efd7a910800000000000000
+      internalID: 1848692351797843112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ME\u0301TETE_6"
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1510
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f5d00b68a3207d0800000000000000
+      internalID: -2953734055447929081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ME\u0301TETE_7"
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1510
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70abf7fe865e7f4e0800000000000000
+      internalID: -1947836074956965369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ME\u0301TETE_8"
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1510
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3408f91852ae98d80800000000000000
+      internalID: -8247803795742949309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ME\u0301TETE_9"
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1479
+        width: 19
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429528d7fed89e0d0800000000000000
+      internalID: -3393024784504563420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ME\u0301TETE_10"
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1510
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a853e7afb6c17c0800000000000000
+      internalID: -4099282837210559912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "ME\u0301TETE_0": 3846262440916111824
+      "ME\u0301TETE_1": 555345780579527007
+      "ME\u0301TETE_10": -4099282837210559912
+      "ME\u0301TETE_2": 9061974001616504656
+      "ME\u0301TETE_3": -4620044833159114138
+      "ME\u0301TETE_4": -4554841761186654106
+      "ME\u0301TETE_5": 1848692351797843112
+      "ME\u0301TETE_6": -2953734055447929081
+      "ME\u0301TETE_7": -1947836074956965369
+      "ME\u0301TETE_8": -8247803795742949309
+      "ME\u0301TETE_9": -3393024784504563420
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
