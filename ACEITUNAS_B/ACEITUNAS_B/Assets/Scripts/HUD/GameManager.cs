@@ -8,6 +8,8 @@ public class GameManager : MonoBehaviour
     public HUD hud;
     public int vidas = 3;
 
+    public int tiempoActual;
+
     [Header("Sprites por vida")]
     public Sprite sprite3Lives;  // Sprite para 3 vidas
     public Sprite sprite2Lives;  // Sprite para 2 vidas
@@ -49,6 +51,7 @@ public class GameManager : MonoBehaviour
         {
             audioSource.PlayOneShot(sonidoDañoOliva);
             vidas--;
+            FindFirstObjectByType<ArduinoSerial>().EnviarEstado(vidas);
             hud.DesactivarVida(vidas);
 
             // Efecto de shake en las vidas UI

@@ -146,6 +146,8 @@ public class Ball : MonoBehaviour
         if (distance < 0.1f) return;
 
         Vector2 dir = (Vector2)dragInputStartPos - pos;
+        float power = FindFirstObjectByType<ArduinoSerial>().powerArduino; // 0–10
+
         rb.linearVelocity = Vector2.ClampMagnitude(dir * power, maxPower);
 
         Vector2 faceDir = new Vector2(dir.y, -dir.x);

@@ -76,6 +76,12 @@ public class Timer : MonoBehaviour
         Debug.Log("Tiempo total reiniciado");
     }
 
+    public int GetCurrentSeconds()
+{
+    if (!isTimerRunning) return (int)currentTime;
+
+    return (int)(Time.time - startTime);
+}
 
 
     private void Update()
