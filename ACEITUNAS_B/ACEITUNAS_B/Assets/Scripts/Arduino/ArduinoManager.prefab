@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0585e0b9bd82ead4ba09e9ffd88b742d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ArduinoSerial
-  portName: COM4
-  baudRate: 115200
+  portName: COM7
+  baudRate: 9600
   distancia: 0
   powerArduino: 0
